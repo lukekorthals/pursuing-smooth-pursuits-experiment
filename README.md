@@ -1,5 +1,8 @@
 # pursuing-smooth-pursuits-experiment
-Experimental code used to collect data for the pursuing smooth pursuits research project. 
+Experimental code used to collect data for the eye-movement benchmark data for smooth-pursuit classification which is available on [OSF](https://osf.io/zx7hc/). 
+
+## cite preprint as
+Korthals, L., Visser, I., & Kucharský, Š. (2025, August 23). Eye-movement benchmark data for smooth-pursuit classification. [https://doi.org/10.31234/osf.io/qhgak_v1](https://doi.org/10.31234/osf.io/qhgak_v1)
 
 ## Installation
 1. Create virtual environment with Python 3.8
